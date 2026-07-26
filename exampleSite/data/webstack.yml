@@ -280,11 +280,11 @@
   links:
     - title: 丽萨主机
       logo: https://www.google.com/s2/favicons?domain=www.lisahost.com&sz=64
-      url: https://www.lisahost.com
+      url: https://lisahost.com/aff.php?aff=3135
       description: 美国/英国/韩国/台湾住宅双ISP IP，适合TikTok运营。
     - title: 六六云
       logo: https://www.google.com/s2/favicons?domain=www.66ra.com&sz=64
-      url: https://www.66ra.com
+      url: https://666clouds.com/aff.php?aff=2247
       description: 美国/英国住宅双ISP IP，美区有CN2 GIA线路。
     - title: WePC
       logo: https://www.google.com/s2/favicons?domain=wepc.au&sz=64
@@ -292,27 +292,27 @@
       description: 澳洲/泰国/越南/韩国/美国住宅双ISP IP。
     - title: TmhHost
       logo: https://www.google.com/s2/favicons?domain=tmhhost.com&sz=64
-      url: https://tmhhost.com
+      url: https://www.tmhhost.com/aff/RLBQOMXK
       description: 专注美国住宅ISP IP，9929直连优质线路。
     - title: iPraft
       logo: https://www.google.com/s2/favicons?domain=www.ipraft.com&sz=64
-      url: https://www.ipraft.com
+      url: https://ipraft.com/?i22bb44
       description: 主打Tiktok短视频营销和外贸线路的住宅IP VPS。
     - title: Mondoze
       logo: https://www.google.com/s2/favicons?domain=mondoze.com&sz=64
-      url: https://mondoze.com
+      url: https://billing.mondoze.com/aff.php?aff=52
       description: 马来西亚住宅IP服务器。
     - title: Tothost
       logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://billing.tothost.vn/aff.php?aff=243
-      url: https://tothost.com
+      url: https://billing.tothost.vn/aff.php?aff=243
       description: 越南ISP住宅IP，适合东南亚Tiktok。
     - title: DigitalVirt
       logo: https://www.google.com/s2/favicons?domain=www.digitalvirt.com&sz=64
-      url: https://www.digitalvirt.com
+      url: https://digitalvirt.com/aff.php?aff=1217
       description: 专属TikTok解决方案。
     - title: ZoroCloud
       logo: https://my.zorocloud.com/templates/twenty-x/images/20i-banner-img.svg
-      url: https://zorocloud.com
+      url: https://my.zorocloud.com/aff.php?aff=353
       description: 美国、英国、越南、马来西亚双ISP住宅IP云服务器。
     - title: CstoneCloud
       logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqihCujIWk0LnL7W47t2lJ2KGnDZDCppENpB1b6pE1dQ&s=10
@@ -320,7 +320,7 @@
       description: 美国住宅IP云服务器双ISP。
     - title: OneTechCloud
       logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.onetechcloud.com/aff/DANLWPQT
-      url: https://onetechcloud.net
+      url: https://www.onetechcloud.com/aff/DANLWPQT
       description: 美国9929/4837双ISP原生IP，解锁TK|ChatGPT|流媒体。
 
 
