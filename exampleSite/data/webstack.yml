@@ -1,627 +1,646 @@
 ---
 
-- taxonomy: 常用推荐
-  icon: far fa-star
-  links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
+- taxonomy: 自建站点
+  icon: fas fa-server fa-lg
+  links:
+    - title: 醛剧中
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/224.html
+      description: 基于LunaTV打造的跨平台影视聚合播放器。
+    - title: OpenList
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/232.html
+      description: 社区驱动的AList分支，防御开源攻击。
+
+
+- taxonomy: 科学上网
+  icon: fas fa-shield-alt fa-lg
+  links:
+    - title: Hiddify
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/35.html
+      description: Win/Android/iOS全平台代理工具，操作简单友好。
+    - title: Karing
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/36.html
+      description: Win/Android/iOS全平台代理工具，功能丰富。
+    - title: v2rayN
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/37.html
+      description: Windows端高阶玩家必备代理工具。
+    - title: NekoBox For Android
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/38.html
+      description: Android端链式代理必备工具。
+    - title: V2rayU
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/197.html
+      description: MacOS代理工具首选。
+    - title: OpenVPN
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/41.html
+      description: 开源VPN工具。
+    - title: Clash Verge Rev
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/39.html
+      description: Windows端链式代理推荐工具。
+    - title: Shadowrocket
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/42.html
+      description: iOS端链式代理首选。
+    - title: 苹果ID&小火箭
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/43.html
+      description: 美区苹果ID及小火箭购买，适合不愿折腾的玩家。
+
+
+- taxonomy: 机场推荐
+  icon: fas fa-paper-plane fa-lg
+  links:
+    - title: 游隼云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/32.html
+      description: 低价大流量hy2机场。
+    - title: Mitce
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/93.html
+      description: 住宅IP低价大流量机场。
+    - title: KTM Cloud
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/219.html
+      description: 大流量中转机场，适合链式代理。
+    - title: 快冲云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/218.html
+      description: 稀有主打家宽住宅IP的机场。
+    - title: 闪狐云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/222.html
+      description: 优质专线机场。
+    - title: Eternal Network
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/129.html
+      description: 低价专线机场。
+    - title: 曙光Cloud
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/167.html
+      description: 游隼云的替代方案。
+
+
+- taxonomy: VPS推荐
+  icon: fas fa-cloud fa-lg
+  links:
+    - title: 甲骨文云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/8.html
+      description: 最强永久免费VPS，白嫖最佳。
+    - title: 谷歌云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/13.html
+      description: 可长期免费VPS。
+    - title: 亚马逊云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/9.html
+      description: 免费1年EC2服务器，线路优质稳定。
+    - title: 微软云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/10.html
+      description: 学生可免费1年VPS。
+    - title: 搬瓦工
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/53.html
+      description: CN2 GIA线路VPS代表厂家。
+    - title: DMIT
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/119.html
+      description: 搬瓦工上游VPS商家，精品CN2线路。
+    - title: RackNerd
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/54.html
+      description: 低至10美金/年，最便宜的付费VPS。
+    - title: CloudCone
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/124.html
+      description: 低至9.5美金/年的VPS。
+    - title: Gcore
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/128.html
+      description: 云平台低至3欧元/月。
+    - title: V.PS
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/125.html
+      description: 软银日本优质线路。
+    - title: ColoCrossing
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/169.html
+      description: 大促低价VPS代表。
+
+
+- taxonomy: 建站工具
+  icon: fas fa-wrench fa-lg
+  links:
+    - title: Cloudflare
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/57.html
+      description: 全球最大网络服务商。
+    - title: Speedtest
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/58.html
+      description: 知名测速网站。
+    - title: FAST
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/59.html
+      description: 知名测速网站。
+    - title: 宝塔面板
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/60.html
+      description: 老牌运维面板。
+    - title: WordPress
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/61.html
+      description: 官方中文包下载。
+    - title: docsify
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/90.html
+      description: 好用的文档网站生成器。
+    - title: Typora
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/69.html
+      description: 好用的Markdown编辑器。
     - title: GitHub
       logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+      url: https://hbqfkj.cn/sites/138.html
+      description: 全球最大的开源项目社区。
+    - title: 谷歌搜索控制台
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/139.html
+      description: 网站谷歌搜索数据分析工具。
+    - title: PuTTY
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/162.html
+      description: 老牌SSH工具。
+    - title: Tabby
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/163.html
+      description: 超好用的开源SSH工具。
+    - title: FinalShell
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/164.html
+      description: 用户众多的SSH工具。
+    - title: ZipWP
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/202.html
+      description: AI帮助创建WordPress网站，自动化设计。
 
 
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        
+- taxonomy: TikTok工具
+  icon: fas fa-mobile-alt fa-lg
+  links:
+    - title: IP2location
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/22.html
+      description: 查询节点IP所在时区。
+    - title: Whoer.net
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/23.html
+      description: 检测设备伪装度。
+    - title: Toolsdaquan
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/24.html
+      description: 查询IP及端口是否被封。
+    - title: bgp.he.net
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/25.html
+      description: 查询是否为原生IP。
+    - title: iPinfo
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/26.html
+      description: 查看IP相关信息和类型。
+    - title: ipdata
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/27.html
+      description: 检测IP黑名单行为和IP类型。
+    - title: IPjiance
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/28.html
+      description: 热门TikTok IP检测网站。
+    - title: SCAMALYTICS
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/29.html
+      description: 查IP欺诈度。
+    - title: astrill-PC端
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/30.html
+      description: 测试伪装度。
+    - title: astrill-手机端
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/31.html
+      description: 测试伪装度。
+    - title: AdsPower
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/72.html
+      description: 跨境指纹浏览器。
+    - title: ip111
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/81.html
+      description: 显示查询自己的IP地址。
+    - title: FreeTTS
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/105.html
+      description: 免费在线文本转语音。
+    - title: igfonts
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/106.html
+      description: Instagram风格字体生成器。
+    - title: Tiktok HashTags
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/109.html
+      description: TikTok标签生成器。
+    - title: TikVideo
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/110.html
+      description: TikTok视频下载网站。
 
-- taxonomy: 悠闲娱乐
+
+- taxonomy: 流量转发
+  icon: fas fa-exchange-alt fa-lg
+  links:
+    - title: GoRelay
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/94.html
+      description: 新兴流量中转平台。
+    - title: NNR
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/95.html
+      description: 老牌流量转发平台。
+
+
+- taxonomy: TK专用VPS
+  icon: fas fa-network-wired fa-lg
+  links:
+    - title: 丽萨主机
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/47.html
+      description: 美国/英国/韩国/台湾住宅双ISP IP，适合TikTok运营。
+    - title: 六六云
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/50.html
+      description: 美国/英国住宅双ISP IP，美区有CN2 GIA线路。
+    - title: WePC
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/48.html
+      description: 澳洲/泰国/越南/韩国/美国住宅双ISP IP。
+    - title: TmhHost
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/51.html
+      description: 专注美国住宅ISP IP，9929直连优质线路。
+    - title: iPraft
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/52.html
+      description: 主打Tiktok短视频营销和外贸线路的住宅IP VPS。
+    - title: Mondoze
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/62.html
+      description: 马来西亚住宅IP服务器。
+    - title: Tothost
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/63.html
+      description: 越南ISP住宅IP，适合东南亚Tiktok。
+    - title: DigitalVirt
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/83.html
+      description: 专属TikTok解决方案。
+    - title: ZoroCloud
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/92.html
+      description: 美国、英国、越南、马来西亚双ISP住宅IP云服务器。
+    - title: CstoneCloud
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/157.html
+      description: 美国住宅IP云服务器双ISP。
+    - title: OneTechCloud
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/204.html
+      description: 美国9929/4837双ISP原生IP，解锁TK|ChatGPT|流媒体。
+
+
+- taxonomy: AI工具
+  icon: fas fa-robot fa-lg
+  links:
+    - title: ChatGPT
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/130.html
+      description: 强大的AI聊天机器人。
+    - title: Copilot
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/131.html
+      description: 微软AI聊天机器人。
+    - title: Claude
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/132.html
+      description: AI聊天新秀。
+    - title: Gemini
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/133.html
+      description: 谷歌AI聊天机器人。
+    - title: 文心一言
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/134.html
+      description: 百度AI聊天大模型。
+    - title: 豆包
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/135.html
+      description: 字节旗下AI大模型。
+    - title: DeepSeek
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/136.html
+      description: 国内AI大模型新秀。
+    - title: Grok
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/137.html
+      description: 马斯克AI聊天大模型。
+    - title: Kimi
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/153.html
+      description: 国产优秀AI聊天大模型。
+    - title: Ideogram
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/154.html
+      description: 优秀AI绘图工具。
+    - title: AiShort
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/242.html
+      description: 精选AI提示词，让每次对话更高效。
+    - title: ImagePrompt.org
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/243.html
+      description: 使用图片提示词创作更好的AI艺术。
+
+
+- taxonomy: 静态住宅IP
+  icon: fas fa-globe fa-lg
+  links:
+    - title: Proxy-Cheap
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/270.html
+      description: 主打高性价比，静态住宅IP定价透明。
+    - title: WEBSHARE
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/85.html
+      description: 价格极具竞争力，静态住宅IP入门级首选。
+    - title: IPRoyal
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/87.html
+      description: 不限流量的静态住宅IP，计费模式灵活。
+    - title: 711 Proxy
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/102.html
+      description: 纯高速静态住宅代理。
+    - title: LycheeIP
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/271.html
+      description: 全球头部的HTTP企业级代理IP服务商。
+
+
+- taxonomy: 办公工具
+  icon: fas fa-briefcase fa-lg
+  links:
+    - title: IDM下载器
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/65.html
+      description: 最好用的下载神器。
+    - title: Adobe GenP
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/66.html
+      description: Adobe全家桶激活工具。
+    - title: Bypass
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/67.html
+      description: 12306抢票神器。
+    - title: 网页版PS
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/68.html
+      description: 国内稿定设计版的Photopea。
+    - title: WiseCare 365 pro
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/70.html
+      description: 强大的系统优化工具。
+    - title: 30aitool
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/73.html
+      description: 全面工具网站。
+    - title: ALL TO ALL
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/74.html
+      description: 最全格式转换网站。
+    - title: PDF24 Tools
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/75.html
+      description: PDF在线工具网站。
+    - title: 凡科快图
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/76.html
+      description: 在线图片加水印。
+    - title: LOGO wine
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/78.html
+      description: 全球知名企业logo库。
+    - title: GKD
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/79.html
+      description: 手机应用广告屏蔽工具。
+    - title: LocalSend
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/80.html
+      description: 跨平台局域网传输工具。
+    - title: Win & Office激活脚本
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/82.html
+      description: 最好用的Win & Office永久激活工具。
+    - title: cobalt
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/89.html
+      description: 开源在线音视频全平台下载。
+    - title: Rufus
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/91.html
+      description: 轻松创建USB启动盘。
+    - title: APKPure
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/96.html
+      description: 安卓应用下载站。
+    - title: remove.bg
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/156.html
+      description: AI在线免费图像处理工具。
+    - title: TiQu.cc
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/199.html
+      description: 从所有网络下载视频/提取图像。
+    - title: yesicon
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/200.html
+      description: 汇集全球高品质免费开源矢量图标库。
+    - title: Send Anywhere
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/108.html
+      description: 跨平台高速文件传输工具。
+    - title: ScanNerd
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/234.html
+      description: 把PDF或图片一键变成逼真的扫描件。
+    - title: Shizuku
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/235.html
+      description: 帮助普通应用直接以adb权限运行。
+    - title: AnyToCopy
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/240.html
+      description: 50+平台视频文案提取、视频去水印工具。
+    - title: 纸由我PaperMe
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/241.html
+      description: 精美的自定义打印纸张。
+    - title: paywallbuster
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/260.html
+      description: 移除付费墙工具。
+
+
+- taxonomy: 娱乐工具
   icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
-      
-- taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
-    - term: 图标素材
-      links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
-          logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
-        - title: Icon Archive
-          logo: iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons.
-        - title: FindIcons
-          logo: FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons.
-        - title: IcoMoonApp
-          logo: IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator.
-        - title: easyicon
-          logo: easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
-        - title: flaticon
-          logo: flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome.
-        - title: ion icons
-          logo: ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack.
-    - term: 图标设计
-      links:
-        - title: Iconsfeed
-          logo: iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery.
-        - title: iOS Icon Gallery
-          logo: iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store.
-        - title: World Vector Logo
-          logo: worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download.
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
-        - title: Medialoot
-          logo: Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot.
-        - title: 千图网
-          logo: qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
-        - title: 千库网
-          logo: qianku.png
-          url: http://588ku.com/
-          description: 免费 png 图片背景素材下载。
-        - title: 我图网
-          logo: wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
-        - title: 90 设计
-          logo: 90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库。
-        - title: 昵图网
-          logo: nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台。
-        - title: 懒人图库
-          logo: lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台。
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.png
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-      
-
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
-  list: 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: uigradients.png
-          description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: grabient.png
-          description: 2017 Grabient by unfold.
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme.
-        - title: coolors
-          url: https://coolors.co/
-          logo: coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: colorhunt.png
-          description: Beautiful Color Palettes.
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
-          description: Best Flat Colors For UI Design.
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
-          description: Trianglify Generator.
-        - title: klart
-          url: https://klart.co/colors/
-          logo: klart.png
-          description: Beautiful colors and designs to your inbox every week.
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
-    - term: 谷歌插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
+  links:
+    - title: 影视仓
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/44.html
+      description: 全网看片神器。
+    - title: EasyBox
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/45.html
+      description: 手机端全网看片神器。
+    - title: 洛雪音乐助手
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/46.html
+      description: 全网听歌神器。
+    - title: YouTube
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/141.html
+      description: 油管。
+    - title: TikTok
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/142.html
+      description: 网页版。
+    - title: Netflix
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/143.html
+      description: 奈飞。
+    - title: Disney+
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/144.html
+      description: 迪士尼影视平台。
+    - title: Spotify
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/145.html
+      description: 国外主流音乐平台。
+    - title: Facebook
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/146.html
+      description: 脸书网页版。
+    - title: Google Voice
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/147.html
+      description: 谷歌虚拟电话。
+    - title: Pinterest
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/148.html
+      description: 国外社交型图站。
+    - title: Instagram
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/149.html
+      description: 海外著名社交平台。
+    - title: X
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/150.html
+      description: 原Twitter。
+    - title: Telegram
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/151.html
+      description: Telegram网页版。
+    - title: Tubi
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/254.html
+      description: 无需付费电影，老片/冷门/Cult天堂。
+    - title: Popcornflix
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/255.html
+      description: 独立电影、纪录片爱好者私藏。
+    - title: Pluto TV
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/256.html
+      description: 24小时直播频道，治好选择困难症。
+    - title: Plex
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/257.html
+      description: 私人媒体库+无需付费内容。
 
 
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-        
+- taxonomy: 学海无涯
+  icon: fas fa-book fa-lg
+  links:
+    - title: ClassCentral
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/244.html
+      description: 25000门在线课程，涵盖12000+学科。
+    - title: CBeebies
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/245.html
+      description: BBC为儿童量身打造的英语启蒙频道。
+    - title: 爱折纸网
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/246.html
+      description: 几乎收录了所有手工教程。
+    - title: PhET
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/247.html
+      description: 诺贝尔得主创办的互动实验网站。
+    - title: 极速英语
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/248.html
+      description: 最系统的英语学习网站。
+    - title: 雾象Fogsight
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/250.html
+      description: 洞察万象，让抽象概念触手可及。
+    - title: 公考知识库
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/249.html
+      description: 公务员备考知识库。
+    - title: iFixit
+      logo: default.webp
+      url: https://hbqfkj.cn/sites/251.html
+      description: 高质量维修零件和工具及社区指导。
+
+
+- taxonomy: 友情链接
+  icon: fas fa-link fa-lg
+  links:
+    - title: 免责声明
+      logo: default.webp
+      url: https://hbqfkj.cn/warning/
+      description: 本站免责声明。
+    - title: 联系方式
+      logo: default.webp
+      url: https://hbqfkj.cn/contact/
+      description: 联系我们。
+    - title: 隐私政策
+      logo: default.webp
+      url: https://hbqfkj.cn/privacy-policy/
+      description: 本站隐私政策。
+    - title: 玩卡天地
+      logo: default.webp
+      url: https://bk.hbqfkj.cn
+      description: 玩卡天地。
+    - title: 博客站
+      logo: default.webp
+      url: https://blog.hbqfkj.cn
+      description: 丙醛说博客。
