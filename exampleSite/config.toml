@@ -1,6 +1,6 @@
 baseURL               = "https://webstack-hugo-crx.pages.dev/"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
+title                 = "丙醛说"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -9,7 +9,7 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 
 [params]
-    author        = "shenweiyan"
+    author        = "L-ch3ch2cho"
     description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
     upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"      # 左侧导航栏的"网站提交"
     about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
