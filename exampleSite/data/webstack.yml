@@ -209,7 +209,7 @@
       url: https://toolsdaquan.com
       description: 查询IP及端口是否被封。
     - title: bgp.he.net
-      logo: assets/images/logos/bgp-logo.png
+      logo: bgp-logo.png
       url: https://bgp.he.net
       description: 查询是否为原生IP。
     - title: iPinfo
