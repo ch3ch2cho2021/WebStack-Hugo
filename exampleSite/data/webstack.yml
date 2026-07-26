@@ -25,15 +25,15 @@
       url: https://karing.app
       description: Win/Android/iOS全平台代理工具，功能丰富。
     - title: v2rayN
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://v2rayn.org/wp-content/uploads/2022/06/1655215063-favicon-70x70.png
       url: https://github.com/2dust/v2rayN
       description: Windows端高阶玩家必备代理工具。
     - title: NekoBox For Android
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://nekoboxforandroid.org/wp-content/uploads/2024/01/NekoBoxForAndroid-55x55.png
       url: https://github.com/MatsuriDayo/NekoBoxForAndroid
       description: Android端链式代理必备工具。
     - title: V2rayU
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://en.v2rayu.org/wp-content/uploads/2024/01/V2rayU-icon-150x150.png.avif
       url: https://github.com/yanue/V2rayU
       description: MacOS代理工具首选。
     - title: OpenVPN
@@ -41,7 +41,7 @@
       url: https://openvpn.net
       description: 开源VPN工具。
     - title: Clash Verge Rev
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.clashverge.dev/
       url: https://github.com/clash-verge-rev/clash-verge-rev
       description: Windows端链式代理推荐工具。
     - title: Shadowrocket
@@ -127,7 +127,7 @@
       url: https://gcore.com
       description: 云平台低至3欧元/月。
     - title: V.PS
-      logo: https://www.google.com/s2/favicons?domain=vps.hosting&sz=64
+      logo: https://favicon.run/favicon?domain=v.ps
       url: https://vps.hosting
       description: 软银日本优质线路。
     - title: ColoCrossing
@@ -490,7 +490,7 @@
       url: https://scannerd.com
       description: 把PDF或图片一键变成逼真的扫描件。
     - title: Shizuku
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://shizuku.rikka.app/zh-hans/
       url: https://github.com/RikkaApps/Shizuku
       description: 帮助普通应用直接以adb权限运行。
     - title: AnyToCopy
@@ -519,7 +519,7 @@
       url: https://easybox.vip/download.html
       description: 手机端全网看片神器。
     - title: 洛雪音乐助手
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://tools.hbqfkj.cn/image/1001.png
       url: https://github.com/lyswhut/lx-music-mobile
       description: 全网听歌神器。
     - title: YouTube
