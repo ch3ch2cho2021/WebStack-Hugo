@@ -4,11 +4,11 @@
   icon: fas fa-server fa-lg
   links:
     - title: 醛剧中
-      logo: https://www.google.com/s2/favicons?domain=mt.hbqfkj.cn&sz=64
+      logo: https://github.com/MoonTechLab/LunaTV/raw/main/public/logo.png
       url: https://mt.hbqfkj.cn
       description: 基于LunaTV打造的跨平台影视聚合播放器。
     - title: OpenList
-      logo: https://www.google.com/s2/favicons?domain=olist.hbqfkj.cn&sz=64
+      logo: https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg
       url: https://olist.hbqfkj.cn
       description: 社区驱动的AList分支，防御开源攻击。
 
@@ -58,7 +58,7 @@
   icon: fas fa-paper-plane fa-lg
   links:
     - title: 游隼云
-      logo: https://www.google.com/s2/favicons?domain=falco.falcosafe.top&sz=64
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8apfkvjZGc5gemIG5HUi3JUpDVNDV-rmKn3oRXWjDg&s=10
       url: https://falco.falcosafe.top/#/register?code=X3qmn0YA
       description: 低价大流量hy2机场。
     - title: Mitce
@@ -66,7 +66,7 @@
       url: https://mitce.net/aff.php?aff=10929
       description: 住宅IP低价大流量机场。
     - title: KTM Cloud
-      logo: https://www.google.com/s2/favicons?domain=ktmcloud.vip&sz=64
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8apfkvjZGc5gemIG5HUi3JUpDVNDV-rmKn3oRXWjDg&s=10
       url: https://ktmcloud.vip/#/register?code=CEuN5wKd
       description: 大流量中转机场，适合链式代理。
     - title: 快冲云
@@ -78,11 +78,11 @@
       url: https://inv03.ffaff.cc/register?aff=v5kZHXqI
       description: 优质专线机场。
     - title: Eternal Network
-      logo: https://www.google.com/s2/favicons?domain=artyun.top&sz=64
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8apfkvjZGc5gemIG5HUi3JUpDVNDV-rmKn3oRXWjDg&s=10
       url: https://artyun.top/#/register?code=VujwvMcW
       description: 低价专线机场。
     - title: 曙光Cloud
-      logo: https://www.google.com/s2/favicons?domain=shuguangcloud.xyz&sz=64
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8apfkvjZGc5gemIG5HUi3JUpDVNDV-rmKn3oRXWjDg&s=10
       url: https://shuguangcloud.xyz/register?code=IfweWCGk
       description: 游隼云的替代方案。
 
@@ -107,7 +107,7 @@
       url: https://azure.microsoft.com/free/
       description: 学生可免费1年VPS。
     - title: 搬瓦工
-      logo: https://www.google.com/s2/favicons?domain=bandwagonhost.com&sz=64
+      logo: https://www.bandwagonhost.net/wp-content/uploads/2021/11/bandwagonhostnet_bwh20211111_code2-240x180.jpg
       url: https://bandwagonhost.com
       description: CN2 GIA线路VPS代表厂家。
     - title: DMIT
@@ -176,7 +176,7 @@
       url: https://search.google.com/search-console
       description: 网站谷歌搜索数据分析工具。
     - title: PuTTY
-      logo: https://www.google.com/s2/favicons?domain=www.putty.org&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.chiark.greenend.org.uk/~sgtatham/putty/
       url: https://www.putty.org
       description: 老牌SSH工具。
     - title: Tabby
@@ -184,7 +184,7 @@
       url: https://tabby.sh
       description: 超好用的开源SSH工具。
     - title: FinalShell
-      logo: https://www.google.com/s2/favicons?domain=www.hostbuf.com&sz=64
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLC55Ccizfuwg1KR86KqRq7LZFLjBO4UHFdQ&s
       url: https://www.hostbuf.com
       description: 用户众多的SSH工具。
     - title: ZipWP
@@ -221,7 +221,7 @@
       url: https://ipdata.co
       description: 检测IP黑名单行为和IP类型。
     - title: IPjiance
-      logo: https://www.google.com/s2/favicons?domain=www.ipjiance.com&sz=64
+      logo: https://ipjiance.net/assets/img/favicon.ico
       url: https://www.ipjiance.com
       description: 热门TikTok IP检测网站。
     - title: SCAMALYTICS
@@ -241,7 +241,7 @@
       url: https://www.adspower.com
       description: 跨境指纹浏览器。
     - title: ip111
-      logo: https://www.google.com/s2/favicons?domain=www.ip111.cn&sz=64
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxdcdqaBPH5r0x8bKGfASQW_ug9oJV5qMQSa9LLtUvz8GiWT_UJ_OcMg&s=10
       url: https://www.ip111.cn
       description: 显示查询自己的IP地址。
     - title: FreeTTS
@@ -303,7 +303,7 @@
       url: https://mondoze.com
       description: 马来西亚住宅IP服务器。
     - title: Tothost
-      logo: https://www.google.com/s2/favicons?domain=tothost.com&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://billing.tothost.vn/aff.php?aff=243
       url: https://tothost.com
       description: 越南ISP住宅IP，适合东南亚Tiktok。
     - title: DigitalVirt
@@ -311,15 +311,15 @@
       url: https://www.digitalvirt.com
       description: 专属TikTok解决方案。
     - title: ZoroCloud
-      logo: https://www.google.com/s2/favicons?domain=zorocloud.com&sz=64
+      logo: https://my.zorocloud.com/templates/twenty-x/images/20i-banner-img.svg
       url: https://zorocloud.com
       description: 美国、英国、越南、马来西亚双ISP住宅IP云服务器。
     - title: CstoneCloud
-      logo: https://www.google.com/s2/favicons?domain=www.cstonecloud.com&sz=64
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqihCujIWk0LnL7W47t2lJ2KGnDZDCppENpB1b6pE1dQ&s=10
       url: https://www.cstonecloud.com/aff.php?aff=46
       description: 美国住宅IP云服务器双ISP。
     - title: OneTechCloud
-      logo: https://www.google.com/s2/favicons?domain=onetechcloud.net&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.onetechcloud.com/aff/DANLWPQT
       url: https://onetechcloud.net
       description: 美国9929/4837双ISP原生IP，解锁TK|ChatGPT|流媒体。
 
@@ -442,7 +442,7 @@
       url: https://kt.fkw.com/shuiyin.html
       description: 在线图片加水印。
     - title: LOGO wine
-      logo: https://www.google.com/s2/favicons?domain=www.logowine.com&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.logo.wine/
       url: https://www.logowine.com
       description: 全球知名企业logo库。
     - title: GKD
@@ -486,7 +486,7 @@
       url: https://send-anywhere.com
       description: 跨平台高速文件传输工具。
     - title: ScanNerd
-      logo: https://www.google.com/s2/favicons?domain=scannerd.com&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://scannerd.co/zh
       url: https://scannerd.com
       description: 把PDF或图片一键变成逼真的扫描件。
     - title: Shizuku
@@ -608,7 +608,7 @@
       url: https://www.runtoenglish.com/
       description: 最系统的英语学习网站。
     - title: 雾象Fogsight
-      logo: https://www.google.com/s2/favicons?domain=fogsight.org&sz=64
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://fogsight.ai/
       url: https://fogsight.org
       description: 洞察万象，让抽象概念触手可及。
     - title: 公考知识库
