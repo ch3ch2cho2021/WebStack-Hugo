@@ -382,23 +382,23 @@
   links:
     - title: Proxy-Cheap
       logo: https://www.google.com/s2/favicons?domain=proxy-cheap.com&sz=64
-      url: https://proxy-cheap.com
+      url: https://app.proxy-cheap.com/r/12J6pu
       description: 主打高性价比，静态住宅IP定价透明。
     - title: WEBSHARE
       logo: https://www.google.com/s2/favicons?domain=www.webshare.io&sz=64
-      url: https://www.webshare.io
+      url: https://www.webshare.io/?referral_code=2ovpfptc7sj9
       description: 价格极具竞争力，静态住宅IP入门级首选。
     - title: IPRoyal
       logo: https://www.google.com/s2/favicons?domain=iproyal.com&sz=64
-      url: https://iproyal.com
+      url: https://iproyal.cn/?r=574463
       description: 不限流量的静态住宅IP，计费模式灵活。
     - title: 711 Proxy
       logo: https://www.google.com/s2/favicons?domain=711proxy.com&sz=64
-      url: https://711proxy.com
+      url: https://www.711proxy.com/signup?code=2F8A40
       description: 纯高速静态住宅代理。
     - title: LycheeIP
       logo: https://www.google.com/s2/favicons?domain=lycheeip.com&sz=64
-      url: https://lycheeip.com
+      url: https://www.lycheeip.com/home/ip?affId=39mYwphlKn
       description: 全球头部的HTTP企业级代理IP服务商。
 
 
