@@ -176,7 +176,7 @@
       url: https://search.google.com/search-console
       description: 网站谷歌搜索数据分析工具。
     - title: PuTTY
-      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.chiark.greenend.org.uk/~sgtatham/putty/
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/1280px-PuTTY_Icon.svg.png
       url: https://www.putty.org
       description: 老牌SSH工具。
     - title: Tabby
