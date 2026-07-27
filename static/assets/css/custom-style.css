@@ -98,6 +98,8 @@ footer.main-footer .footer-text a:hover {
     color: red;
 }
 
+/*顶栏"丙醛说"居中对齐已在 content_header.html 中用绝对定位实现，无需额外CSS*/
+
 /*About页面*/
 .panel .panel-body a {color: #007bff;}
 .panel .panel-body a:hover {color: #979898;}
