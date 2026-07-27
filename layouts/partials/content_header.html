@@ -9,6 +9,7 @@
                             alt="{{ .Site.Title }}">
                         <img src="{{ absURL $.Site.Params.images.logoCollapseDark }}" class="logo-dark d-none"
                             alt="{{ .Site.Title }}">
+                        <span style="font-size: 1.2rem; font-weight: 700; letter-spacing: 0.2em; margin-left: 8px; vertical-align: middle;">丙醛说</span>
                     </a>
 
                     <div class="collapse navbar-collapse order-2 order-md-1 position-relative">
@@ -40,9 +41,8 @@
 			{{ end }}
 			</ul>
 
-                        <div class="d-flex align-items-center justify-content-center" style="position: absolute; left: 0; right: 0; top: 50%; transform: translateY(-50%); font-size: 1.8rem; font-weight: 700; letter-spacing: 0.4em; color: var(--body-color); line-height: 1; pointer-events: none;">
-                            <span class="d-md-none" style="font-size: 1.2rem; letter-spacing: 0.3em;">丙醛说</span>
-                            <span class="d-none d-md-inline">丙醛说</span>
+                        <div class="d-none d-md-flex align-items-center justify-content-center" style="position: absolute; left: 0; right: 0; top: 50%; transform: translateY(-50%); font-size: 1.8rem; font-weight: 700; letter-spacing: 0.4em; color: var(--body-color); line-height: 1; pointer-events: none;">
+                            丙醛说
                         </div>
 
                         {{ if not (eq $.Site.Params.qweather.key "") }}
