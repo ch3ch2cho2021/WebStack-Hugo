@@ -46,4 +46,4 @@ publishDir            = "public"
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容。<br/>&copy; 2024 - {year} By [丙醛说](https://hbqfkj.cn) | [免责声明](https://hbqfkj.cn/warning/) | [联系方式](https://hbqfkj.cn/contact/) | [隐私政策](https://hbqfkj.cn/privacy-policy/)<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容。<br/>&copy; 2024 - {year} By [丙醛说](https://hbqfkj.cn) | [免责声明](https://hbqfkj.cn/warning/) | [联系方式](mailto:emily24826@gmail.com) | [隐私政策](https://hbqfkj.cn/privacy-policy/)<br/>'
