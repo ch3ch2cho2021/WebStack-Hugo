@@ -620,27 +620,3 @@
       url: https://www.ifixit.com
       description: 高质量维修零件和工具及社区指导。
 
-
-- taxonomy: 友情链接
-  icon: fas fa-link fa-lg
-  links:
-    - title: 免责声明
-      logo: https://www.google.com/s2/favicons?domain=hbqfkj.cn&sz=64
-      url: https://hbqfkj.cn/warning/
-      description: 本站免责声明。
-    - title: 联系方式
-      logo: https://www.google.com/s2/favicons?domain=hbqfkj.cn&sz=64
-      url: https://hbqfkj.cn/contact/
-      description: 联系我们。
-    - title: 隐私政策
-      logo: https://www.google.com/s2/favicons?domain=hbqfkj.cn&sz=64
-      url: https://hbqfkj.cn/privacy-policy/
-      description: 本站隐私政策。
-    - title: 玩卡天地
-      logo: https://blog.hbqfkj.cn/favicon.ico
-      url: https://bk.hbqfkj.cn
-      description: 玩卡天地。
-    - title: 博客站
-      logo: https://blog.hbqfkj.cn/favicon.ico
-      url: https://blog.hbqfkj.cn
-      description: 丙醛说博客。
