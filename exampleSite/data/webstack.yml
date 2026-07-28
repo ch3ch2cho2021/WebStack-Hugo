@@ -122,18 +122,6 @@
       logo: https://www.google.com/s2/favicons?domain=www.dmit.io&sz=64
       url: https://www.dmit.io
       description: 搬瓦工上游VPS商家，精品CN2线路。
-    - title: DediRock
-      logo: https://www.google.com/s2/favicons?domain=dedirock.com&sz=64
-      url: https://billing.dedirock.com/aff.php?aff=791&pid=94&language=chinese
-      description: 年付$8.88廉价VPS。
-    - title: RackNerd
-      logo: https://www.google.com/s2/favicons?domain=www.racknerd.com&sz=64
-      url: https://www.racknerd.com
-      description: 低至21.99美元/年便宜VPS。
-    - title: CloudCone
-      logo: https://www.google.com/s2/favicons?domain=cloudcone.com&sz=64
-      url: https://cloudcone.com
-      description: 低至9.5美金/年的VPS。
     - title: Gcore
       logo: https://www.google.com/s2/favicons?domain=gcore.com&sz=64
       url: https://gcore.com
@@ -142,6 +130,14 @@
       logo: https://favicon.run/favicon?domain=v.ps
       url: https://vps.hosting
       description: 软银日本优质线路。
+    - title: DediRock
+      logo: https://www.google.com/s2/favicons?domain=dedirock.com&sz=64
+      url: https://billing.dedirock.com/aff.php?aff=791&pid=94&language=chinese
+      description: 年付$8.88廉价VPS。
+    - title: RackNerd
+      logo: https://www.google.com/s2/favicons?domain=www.racknerd.com&sz=64
+      url: https://www.racknerd.com
+      description: 低至21.99美元/年便宜VPS。
     - title: ColoCrossing
       logo: https://www.google.com/s2/favicons?domain=colocrossing.com&sz=64
       url: https://colocrossing.com
