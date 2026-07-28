@@ -134,18 +134,18 @@
       logo: https://www.google.com/s2/favicons?domain=dedirock.com&sz=64
       url: https://billing.dedirock.com/aff.php?aff=791&pid=94&language=chinese
       description: 年付$8.88廉价VPS。
-    - title: RackNerd
-      logo: https://www.google.com/s2/favicons?domain=www.racknerd.com&sz=64
-      url: https://www.racknerd.com
-      description: 低至21.99美元/年便宜VPS。
-    - title: ColoCrossing
-      logo: https://www.google.com/s2/favicons?domain=colocrossing.com&sz=64
-      url: https://colocrossing.com
-      description: 大促低价VPS代表。
     - title: Rabisu
       logo: https://www.google.com/s2/favicons?domain=rabisu.com&sz=64
       url: https://www.rabisu.com/panel/aff.php?aff=2411&pid=321
       description: 年付$9.9无限流量VPS。
+    - title: ColoCrossing
+      logo: https://www.google.com/s2/favicons?domain=colocrossing.com&sz=64
+      url: https://colocrossing.com
+      description: 低至年付$10.99便宜VPS。
+    - title: RackNerd
+      logo: https://www.google.com/s2/favicons?domain=www.racknerd.com&sz=64
+      url: https://www.racknerd.com
+      description: 低至21.99美元/年便宜VPS。
 
 
 - taxonomy: 建站工具
