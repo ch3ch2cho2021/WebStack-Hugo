@@ -133,11 +133,11 @@
     - title: DediRock
       logo: https://www.google.com/s2/favicons?domain=dedirock.com&sz=64
       url: https://billing.dedirock.com/aff.php?aff=791&pid=94&language=chinese
-      description: 8.88美金年付廉价VPS。
+      description: 年付$8.88廉价VPS。
     - title: Rabisu
       logo: https://www.google.com/s2/favicons?domain=rabisu.com&sz=64
       url: https://www.rabisu.com/panel/aff.php?aff=2411&pid=321
-      description: 9.9美金年付无限流量VPS。
+      description: 年付$9.9无限流量VPS。
 
 
 - taxonomy: 建站工具
