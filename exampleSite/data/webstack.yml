@@ -21,7 +21,7 @@
       url: https://github.com/2dust/v2rayN
       description: Windows端高阶玩家必备代理工具。
     - title: v2rayNG
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://v2rayng.org/wp-content/uploads/2022/06/1656359416-favicon-70x70.png
       url: https://github.com/2dust/v2rayNG
       description: 安卓端V2Ray客户端。
     - title: NekoBox For Android
@@ -37,7 +37,7 @@
       url: https://github.com/clash-verge-rev/clash-verge-rev
       description: Windows端链式代理推荐工具。
     - title: FlClash
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      logo: https://getflclash.org/wp-content/uploads/2024/10/1729504133-favicon-55x55.png
       url: https://github.com/chen08209/FlClash
       description: Mihomo内核全平台客户端。
     - title: Hiddify
@@ -49,7 +49,7 @@
       url: https://karing.app
       description: Win/Android/iOS全平台代理工具，功能丰富。
     - title: sing-box
-      logo: https://www.google.com/s2/favicons?domain=sagernet.org&sz=64
+      logo: https://sing-box.org/wp-content/uploads/2023/12/1702057725-favicon-35x35.png
       url: https://sing-box.sagernet.org/zh/clients/
       description: 全平台极简代理工具。
     - title: OpenVPN
