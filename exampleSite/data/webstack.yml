@@ -334,6 +334,26 @@
       logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.onetechcloud.com/aff/DANLWPQT
       url: https://www.onetechcloud.com/aff/DANLWPQT
       description: 美国9929/4837双ISP原生IP，解锁TK|ChatGPT|流媒体。
+    - title: ZgoCloud
+      logo: https://www.google.com/s2/favicons?domain=www.zgovps.com&sz=64
+      url: https://clients.zgovps.com/?affid=1643
+      description: 高性价比美国家宽IP VPS。
+    - title: 莱卡云
+      logo: https://www.google.com/s2/favicons?domain=www.lcayun.com&sz=64
+      url: https://www.lcayun.com/aff/CNOWLWRX
+      description: 10+ 国家和地区家宽VPS。
+    - title: 荫云
+      logo: https://www.google.com/s2/favicons?domain=www.yin-net.com&sz=64
+      url: https://www.yin-net.com/aff.php?aff=885
+      description: 10+地区家宽资源。
+    - title: MoonVM
+      logo: https://www.google.com/s2/favicons?domain=www.moonvm.com&sz=64
+      url: https://store.moonvm.com/aff.php?aff=601
+      description: 港台地区家宽VPS服务。
+    - title: SixtyNet
+      logo: https://www.google.com/s2/favicons?domain=sixtynet.net&sz=64
+      url: https://sixtynet.net/aff.php?aff=269
+      description: 美国家宽住宅IP。
 
 
 - taxonomy: AI工具
