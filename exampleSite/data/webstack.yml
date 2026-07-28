@@ -19,7 +19,7 @@
     - title: v2rayN
       logo: https://v2rayn.org/wp-content/uploads/2022/06/1655215063-favicon-70x70.png
       url: https://github.com/2dust/v2rayN
-      description: Windows端高阶玩家必备代理工具。
+      description: PC端代理工具首选。
     - title: v2rayNG
       logo: https://v2rayng.org/wp-content/uploads/2022/06/1656359416-favicon-70x70.png
       url: https://github.com/2dust/v2rayNG
@@ -27,27 +27,27 @@
     - title: NekoBox For Android
       logo: https://nekoboxforandroid.org/wp-content/uploads/2024/01/NekoBoxForAndroid-55x55.png
       url: https://github.com/MatsuriDayo/NekoBoxForAndroid
-      description: Android端链式代理必备工具。
+      description: 安卓端全协议代理工具。
     - title: Shadowrocket
       logo: https://shadowrocketios.org/wp-content/uploads/2022/10/1664722099-favicon-70x70.png
       url: https://apps.apple.com/app/shadowrocket/id932747119
-      description: iOS端链式代理首选。
+      description: iOS端代理工具首选。
     - title: Clash Verge Rev
       logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.clashverge.dev/
       url: https://github.com/clash-verge-rev/clash-verge-rev
-      description: Windows端链式代理推荐工具。
+      description: Clash系全平台代理工具。
     - title: FlClash
       logo: https://getflclash.org/wp-content/uploads/2024/10/1729504133-favicon-55x55.png
       url: https://github.com/chen08209/FlClash
-      description: Mihomo内核全平台客户端。
+      description: ClashMeta的多平台代理工具。
     - title: Hiddify
       logo: https://www.google.com/s2/favicons?domain=hiddify.com&sz=64
       url: https://hiddify.com
-      description: Win/Android/iOS全平台代理工具，操作简单友好。
+      description: 极简全平台代理工具。
     - title: Karing
       logo: https://www.google.com/s2/favicons?domain=karing.app&sz=64
       url: https://karing.app
-      description: Win/Android/iOS全平台代理工具，功能丰富。
+      description: sing-box系全平台代理工具。
     - title: sing-box
       logo: https://sing-box.org/wp-content/uploads/2023/12/1702057725-favicon-35x35.png
       url: https://sing-box.sagernet.org/zh/clients/
