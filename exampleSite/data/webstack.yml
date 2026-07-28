@@ -16,6 +16,30 @@
 - taxonomy: 科学上网
   icon: fas fa-shield-alt fa-lg
   links:
+    - title: v2rayN
+      logo: https://v2rayn.org/wp-content/uploads/2022/06/1655215063-favicon-70x70.png
+      url: https://github.com/2dust/v2rayN
+      description: Windows端高阶玩家必备代理工具。
+    - title: v2rayNG
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/2dust/v2rayNG
+      description: 安卓端V2Ray客户端。
+    - title: NekoBox For Android
+      logo: https://nekoboxforandroid.org/wp-content/uploads/2024/01/NekoBoxForAndroid-55x55.png
+      url: https://github.com/MatsuriDayo/NekoBoxForAndroid
+      description: Android端链式代理必备工具。
+    - title: Shadowrocket
+      logo: https://shadowrocketios.org/wp-content/uploads/2022/10/1664722099-favicon-70x70.png
+      url: https://apps.apple.com/app/shadowrocket/id932747119
+      description: iOS端链式代理首选。
+    - title: Clash Verge Rev
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.clashverge.dev/
+      url: https://github.com/clash-verge-rev/clash-verge-rev
+      description: Windows端链式代理推荐工具。
+    - title: FlClash
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
+      url: https://github.com/chen08209/FlClash
+      description: Mihomo内核全平台客户端。
     - title: Hiddify
       logo: https://www.google.com/s2/favicons?domain=hiddify.com&sz=64
       url: https://hiddify.com
@@ -24,38 +48,14 @@
       logo: https://www.google.com/s2/favicons?domain=karing.app&sz=64
       url: https://karing.app
       description: Win/Android/iOS全平台代理工具，功能丰富。
-    - title: v2rayN
-      logo: https://v2rayn.org/wp-content/uploads/2022/06/1655215063-favicon-70x70.png
-      url: https://github.com/2dust/v2rayN
-      description: Windows端高阶玩家必备代理工具。
-    - title: NekoBox For Android
-      logo: https://nekoboxforandroid.org/wp-content/uploads/2024/01/NekoBoxForAndroid-55x55.png
-      url: https://github.com/MatsuriDayo/NekoBoxForAndroid
-      description: Android端链式代理必备工具。
-    - title: OpenVPN
-      logo: https://www.google.com/s2/favicons?domain=openvpn.net&sz=64
-      url: https://openvpn.net
-      description: 开源VPN工具。
-    - title: Clash Verge Rev
-      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.clashverge.dev/
-      url: https://github.com/clash-verge-rev/clash-verge-rev
-      description: Windows端链式代理推荐工具。
-    - title: Shadowrocket
-      logo: https://shadowrocketios.org/wp-content/uploads/2022/10/1664722099-favicon-70x70.png
-      url: https://apps.apple.com/app/shadowrocket/id932747119
-      description: iOS端链式代理首选。
     - title: sing-box
       logo: https://www.google.com/s2/favicons?domain=sagernet.org&sz=64
       url: https://sing-box.sagernet.org/zh/clients/
       description: 全平台极简代理工具。
-    - title: v2rayNG
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-      url: https://github.com/2dust/v2rayNG
-      description: 安卓端V2Ray客户端。
-    - title: FlClash
-      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
-      url: https://github.com/chen08209/FlClash
-      description: Mihomo内核全平台客户端。
+    - title: OpenVPN
+      logo: https://www.google.com/s2/favicons?domain=openvpn.net&sz=64
+      url: https://openvpn.net
+      description: 开源VPN工具。
     - title: 苹果ID&小火箭
       logo: https://www.google.com/s2/favicons?domain=xiaohuojian8.com&sz=64
       url: https://xiaohuojian8.com/aff/5079.html
