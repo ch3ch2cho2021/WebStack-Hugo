@@ -229,8 +229,8 @@
       url: https://toolsdaquan.com
       description: 查询IP及端口是否被封。
     - title: bgp.he.net
-      logo: https://www.google.com/s2/favicons?domain=bgp.he.net&sz=64
-      url: https://bgp.he.net
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAJq9B3p7OO10lMineYN8cCBiVOdajI9q21gF93BSwdX7X73fFu0-DKXw&s=10
+      url: https://www.he.net/
       description: 查询是否为原生IP。
     - title: iPinfo
       logo: https://www.google.com/s2/favicons?domain=ipinfo.io&sz=64
